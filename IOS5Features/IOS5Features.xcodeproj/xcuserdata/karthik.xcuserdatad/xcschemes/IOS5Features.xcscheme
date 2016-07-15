@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "25F3A62B1D30408B00A51C99"
+               BlueprintIdentifier = "259BB4AA1D398A93003BBB29"
                BuildableName = "IOS5Features.app"
                BlueprintName = "IOS5Features"
                ReferencedContainer = "container:IOS5Features.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "25F3A63F1D30408B00A51C99"
+               BlueprintIdentifier = "259BB4C31D398A93003BBB29"
                BuildableName = "IOS5FeaturesTests.xctest"
                BlueprintName = "IOS5FeaturesTests"
                ReferencedContainer = "container:IOS5Features.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "25F3A64A1D30408B00A51C99"
+               BlueprintIdentifier = "259BB4CE1D398A93003BBB29"
                BuildableName = "IOS5FeaturesUITests.xctest"
                BlueprintName = "IOS5FeaturesUITests"
                ReferencedContainer = "container:IOS5Features.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "25F3A62B1D30408B00A51C99"
+            BlueprintIdentifier = "259BB4AA1D398A93003BBB29"
             BuildableName = "IOS5Features.app"
             BlueprintName = "IOS5Features"
             ReferencedContainer = "container:IOS5Features.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "25F3A62B1D30408B00A51C99"
+            BlueprintIdentifier = "259BB4AA1D398A93003BBB29"
             BuildableName = "IOS5Features.app"
             BlueprintName = "IOS5Features"
             ReferencedContainer = "container:IOS5Features.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "25F3A62B1D30408B00A51C99"
+            BlueprintIdentifier = "259BB4AA1D398A93003BBB29"
             BuildableName = "IOS5Features.app"
             BlueprintName = "IOS5Features"
             ReferencedContainer = "container:IOS5Features.xcodeproj">
